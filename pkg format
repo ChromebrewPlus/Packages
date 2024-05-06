@@ -3,5 +3,9 @@
     Filelist(files)
     Arch(arm/intel/AMD)
     Deps(space separated)
+    Icon.svg
+    Icon_64.png
+    Icon_32.png
+    Icon_16.png
     Package(copied to /usr/local/)
 ]
