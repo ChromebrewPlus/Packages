@@ -1,0 +1,7 @@
+[archive type(tar/zip)]0x20[archive
+    Name(exact and no spaces)
+    Filelist(files)
+    Arch(arm/intel/AMD)
+    Deps(space separated)
+    Package(copied to /usr/local/)
+]
